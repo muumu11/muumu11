@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+“I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.” — Bruce Lee
+
+Posting my personal projects.
 <!--
 **muumu11/muumu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
